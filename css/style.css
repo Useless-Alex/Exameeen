@@ -1,0 +1,140 @@
+:root{
+	--f7-theme-color:#000;
+	--f7-navbar-bg-color: #fff; /*navbar*/
+	--f7-navbar-link-color: #000; /*navbar link*/
+	--f7-navbar-text-color:#000;
+	--f7-bars-bg-color:#fff;/*toolbar*/
+	--f7-tabbar-link-inactive-color: #333; /*link toolbar*/
+	--f7-block-margin-vertical:20px;
+	--f7-card-footer-border-color:transparent; 
+	
+}
+
+.img-fluid{
+	max-width: 100%;
+}
+
+h1,h2,h3,h4,h5,h6,p{
+	margin: 5px 0;
+}
+
+.perfil{
+	width: 70px;
+	height: 70px;
+
+}
+#columnas-menu-de-lado{
+	background-color: #000;
+	padding: 5px;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	border-radius: 4px;
+}
+#especio-menu-lateral{
+	margin-top: 5px;
+	margin-bottom: 5px;
+}
+
+.popular{
+	flex: 1;
+
+}
+.hambuerguesa{
+	width: 100%;
+	height: auto;
+}
+.comidas{
+	padding-top: 10px;
+	padding-bottom: 10px;
+	text-align: center;
+}
+.tex{
+	font-size: 12px;
+	color: #acacac;
+	font-weight: bolder;
+}
+.cardb{
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	font-size: 14px;
+	font-weight: bold;
+	color: #1c1c1c;
+}
+
+.add{
+	font-size: 12px;
+	color: #888;
+	text-decoration: none;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	border-radius: 4px;
+	white-space: nowrap;
+	margin-left: 70px;
+	background-color: #000;
+	padding: 5px;
+
+}
+#pad{
+	padding-top: 10px;
+	padding-bottom: 20px;
+}
+#linea{
+	border-top: 1px solid #c4c4c4a4;
+}
+.medio{
+	background-color: rgb(246, 177, 87);
+}
+
+.imagen{
+	width: 100%;
+	height: auto;
+	padding-bottom: 10px;
+}
+.boton{
+	border-radius: 25px;
+}
+.popu{
+	font-size: 22px;
+	font-weight: bold;
+	justify-content: space-between;
+	display: flex;
+	align-items: center;
+	padding: 10px 16px;
+}
+.seeall{
+	font-size: 16px;
+	color: #757474;
+}
+.add1{
+	font-size: 12px;
+	color: #888;
+	white-space: nowrap;
+	margin-left: 80px;
+	margin-top: 10px;
+	background-color: #000;
+	padding: 5px;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	border-radius: 4px;}
+.tex1{
+		font-size: 15px;
+		color: #888;
+	font-weight: bolder;
+	}
+.tex3{
+		font-size: 35px;
+		color: #171717;
+	font-weight: bolder;
+	}
+.tex4{
+		font-size: 35px;
+		color: #ff0000;
+	font-weight: bolder;
+	}
+	.tit{
+		padding-left: 30px;
+	}
